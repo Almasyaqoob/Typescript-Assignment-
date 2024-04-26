@@ -1,0 +1,1 @@
+console.log('albert Einstein, "A person who never made a mistake never tried anythink new."');
